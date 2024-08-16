@@ -1,0 +1,12 @@
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\BE_07_Console.exe.config
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\BE_07_Console.exe
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\BE_07_Console.pdb
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\BE_07_24_DataAccess.dll
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\Check_Validate.dll
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\BE_07_24_DataAccess.pdb
+D:\BAITAP_BE\BE_07_24\BE_07_Console\bin\Debug\Check_Validate.pdb
+D:\BAITAP_BE\BE_07_24\BE_07_Console\obj\Debug\BE_07_Console.csproj.AssemblyReference.cache
+D:\BAITAP_BE\BE_07_24\BE_07_Console\obj\Debug\BE_07_Console.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE\BE_07_24\BE_07_Console\obj\Debug\BE_07_Co.0907F7A2.Up2Date
+D:\BAITAP_BE\BE_07_24\BE_07_Console\obj\Debug\BE_07_Console.exe
+D:\BAITAP_BE\BE_07_24\BE_07_Console\obj\Debug\BE_07_Console.pdb

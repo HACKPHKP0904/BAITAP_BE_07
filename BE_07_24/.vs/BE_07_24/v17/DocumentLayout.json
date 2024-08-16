@@ -3,38 +3,34 @@
   "WorkspaceRootPath": "D:\\BAITAP_BE\\BE_07_24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51FFD948-3763-4607-BD17-034180C853EE}|Check_Validate\\Check_Validate.csproj|d:\\baitap_be\\be_07_24\\check_validate\\check_bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FFD948-3763-4607-BD17-034180C853EE}|Check_Validate\\Check_Validate.csproj|solutionrelative:check_validate\\check_bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\dal\\nhanvien_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|D:\\BAITAP_BE\\BE_07_24\\be_07_24_dataaccess\\dal\\nhanvien_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\dal\\nhanvien_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvienparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvienparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EB54C33-F45D-4015-8EE0-E2E27F17D264}|BE_07_Console\\BE_07_Console.csproj|d:\\baitap_be\\be_07_24\\be_07_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB54C33-F45D-4015-8EE0-E2E27F17D264}|BE_07_Console\\BE_07_Console.csproj|solutionrelative:be_07_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvienfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvienfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{789A6E54-5672-4D45-B761-0D772BBE9BC5}|BE_07_24\\BE_07_24.csproj|d:\\baitap_be\\be_07_24\\be_07_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{789A6E54-5672-4D45-B761-0D772BBE9BC5}|BE_07_24\\BE_07_24.csproj|solutionrelative:be_07_24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51FFD948-3763-4607-BD17-034180C853EE}|Check_Validate\\Check_Validate.csproj|d:\\baitap_be\\be_07_24\\check_validate\\check_bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FFD948-3763-4607-BD17-034180C853EE}|Check_Validate\\Check_Validate.csproj|solutionrelative:check_validate\\check_bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BE_07_24_DataAccess||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|D:\\BAITAP_BE\\BE_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|D:\\BAITAP_BE\\BE_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvienfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvienfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|D:\\BAITAP_BE\\BE_07_24\\be_07_24_dataaccess\\do\\nhanvien\\nhanvienparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|solutionrelative:be_07_24_dataaccess\\do\\nhanvien\\nhanvienparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933D749-2CE8-40AC-9E02-D136DC0AE517}|BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj|d:\\baitap_be\\be_07_24\\be_07_24_dataaccess\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,70 +40,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "BE_07_24_DataAccess",
               "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj",
               "RelativeDocumentMoniker": "BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj",
               "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj",
               "RelativeToolTip": "BE_07_24_DataAccess\\BE_07_24_DataAccess.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-16T03:09:18.077Z",
+              "WhenOpened": "2024-08-16T04:10:05.967Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_Console\\Program.cs",
+              "RelativeDocumentMoniker": "BE_07_Console\\Program.cs",
+              "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_Console\\Program.cs",
+              "RelativeToolTip": "BE_07_Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:17:59.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "check_bien.cs",
               "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\Check_Validate\\check_bien.cs",
               "RelativeDocumentMoniker": "Check_Validate\\check_bien.cs",
               "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\Check_Validate\\check_bien.cs",
               "RelativeToolTip": "Check_Validate\\check_bien.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDwAAAAtAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T02:31:56.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Nhanvien_Business.cs",
               "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DAL\\Nhanvien_Business.cs",
               "RelativeDocumentMoniker": "BE_07_24_DataAccess\\DAL\\Nhanvien_Business.cs",
               "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DAL\\Nhanvien_Business.cs",
               "RelativeToolTip": "BE_07_24_DataAccess\\DAL\\Nhanvien_Business.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBkAAABHAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAmwIsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T02:22:51.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NhanVienFullTime.cs",
               "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienFullTime.cs",
               "RelativeDocumentMoniker": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienFullTime.cs",
               "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienFullTime.cs",
               "RelativeToolTip": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienFullTime.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBgAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T01:55:50.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhanVienPartTime.cs",
-              "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
-              "RelativeDocumentMoniker": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
-              "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
-              "RelativeToolTip": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T01:38:49.514Z",
               "EditorCaption": ""
             },
             {
@@ -118,7 +115,7 @@
               "RelativeDocumentMoniker": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVien.cs",
               "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVien.cs",
               "RelativeToolTip": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVien.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAswC0AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T01:34:07.828Z",
               "EditorCaption": ""
@@ -126,27 +123,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "BE_07_24_DataAccess\\Class1.cs",
-              "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\Class1.cs",
-              "RelativeToolTip": "BE_07_24_DataAccess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "NhanVienPartTime.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
+              "RelativeDocumentMoniker": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
+              "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
+              "RelativeToolTip": "BE_07_24_DataAccess\\DO\\NhanVien\\NhanVienPartTime.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T01:30:20.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24\\Program.cs",
-              "RelativeDocumentMoniker": "BE_07_24\\Program.cs",
-              "ToolTip": "D:\\BAITAP_BE\\BE_07_24\\BE_07_24\\Program.cs",
-              "RelativeToolTip": "BE_07_24\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T01:29:00.666Z",
+              "WhenOpened": "2024-08-16T01:38:49.514Z",
               "EditorCaption": ""
             }
           ]

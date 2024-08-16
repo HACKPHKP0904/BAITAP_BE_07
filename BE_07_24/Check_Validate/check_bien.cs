@@ -17,29 +17,28 @@ namespace Check_Validate
             }
         }
         // check cho họ tên 
-        public static string check_hoten(string text)
+        public static string check_hoten(string hoten)
         {
-            bool isvalid = false;
-            while (!isvalid)
+            while (true)
             {
-                if (string.IsNullOrWhiteSpace(text))
+                if (string.IsNullOrWhiteSpace(hoten))
                 {
-                    Console.WriteLine("Họ tên không được để trống . Vui lòng nhập lại: ");
-                    text = Console.ReadLine();
+                    Console.WriteLine("Họ tên không được để trống. Vui lòng nhập lại: ");
+                    hoten = Console.ReadLine();
                 }
-                else if (HasNumbers(text))
+                else if (hoten.Any(char.IsDigit))
                 {
-                    Console.WriteLine("Họ tên không được nhập số . Vui lòng nhập lại: ");
-                    text =Console.ReadLine();
+                    Console.WriteLine("Họ tên không được chứa số. Vui lòng nhập lại: ");
+                    hoten = Console.ReadLine();
                 }
                 else
                 {
-                    isvalid = true;
+                    break;
                 }
             }
-            return text;
-           
+            return hoten;
         }
+
         // check có số không 
         private static bool HasNumbers(string text)
         {
@@ -61,7 +60,6 @@ namespace Check_Validate
                 if (string.IsNullOrWhiteSpace(text))
                 {
                     Console.WriteLine("Mã Nhân Viên Không Được Để Trống . Vui Lòng Nhập Lại : ");
-                    text = Console.ReadLine();
                 }
                 else
                 {
@@ -70,5 +68,6 @@ namespace Check_Validate
             }
             return text;
         }
+      
     }
 }
