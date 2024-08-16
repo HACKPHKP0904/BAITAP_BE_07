@@ -1,0 +1,9 @@
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\bin\Debug\BE_07_24_DataAccess.dll
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\bin\Debug\BE_07_24_DataAccess.pdb
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\bin\Debug\Check_Validate.dll
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\bin\Debug\Check_Validate.pdb
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\obj\Debug\BE_07_24_DataAccess.csproj.AssemblyReference.cache
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\obj\Debug\BE_07_24_DataAccess.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\obj\Debug\BE_07_24.81A6366D.Up2Date
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\obj\Debug\BE_07_24_DataAccess.dll
+D:\BAITAP_BE\BE_07_24\BE_07_24_DataAccess\obj\Debug\BE_07_24_DataAccess.pdb

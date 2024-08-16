@@ -1,0 +1,6 @@
+D:\BAITAP_BE\BE_07_24\Check_Validate\bin\Debug\Check_Validate.dll
+D:\BAITAP_BE\BE_07_24\Check_Validate\bin\Debug\Check_Validate.pdb
+D:\BAITAP_BE\BE_07_24\Check_Validate\obj\Debug\Check_Validate.csproj.AssemblyReference.cache
+D:\BAITAP_BE\BE_07_24\Check_Validate\obj\Debug\Check_Validate.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE\BE_07_24\Check_Validate\obj\Debug\Check_Validate.dll
+D:\BAITAP_BE\BE_07_24\Check_Validate\obj\Debug\Check_Validate.pdb
